@@ -4,6 +4,7 @@ My implementation of Google Analytics data with Python and BigQuery: Multichanne
 
 # 0. Working with Google Analytics API v3 (ga:report, mcf:report)
 
+
 # 1. Multichannel Path/Grouping:
 * With the mcf report from GA API v3 mcf:report, I have to group the channel according defined rules
 https://colab.research.google.com/drive/1jltvVV7Q7ToFD0Vr-E23T8RsiuHZgz6I?usp=sharing
@@ -11,6 +12,7 @@ https://colab.research.google.com/drive/1WUPXZUWWA9RKQTIyA8aQwQtRH5O3p-uQ?usp=sh
 https://colab.research.google.com/drive/1z9JojmRo6xgk7MqaHJ-qxgg4v_R5EZFn?usp=sharing
 
 # 2. Attribution Model (heuristic+markov)
+* Attribution modeling with DP6 package: https://github.com/DP6/Marketing-Attribution-Models
 https://colab.research.google.com/drive/1J5b0yY1JKWWeXAYOzftE2NFpAiEww0mI?usp=sharing
 https://colab.research.google.com/drive/1ZUrTQledut4Xll-jDLVI1kcDy24J2usv?usp=sharing
 
@@ -20,6 +22,7 @@ https://colab.research.google.com/drive/1GoQMK0C1PTfBOl_s8l8KtSwtdyHOT1w7?usp=sh
 https://colab.research.google.com/drive/1vuPJdgeUPuGg_GTOa2FufOUtIwhSut6U?usp=sharing
 
 ## Life-time Values with BQ
+* LTV=Cumulative sum of revenue to certain date
 https://colab.research.google.com/drive/1P_KtocdkLQ-qCF5pRIAa3J9Ty4cEKQAP?usp=sharing
 
 # 4. Keyword Focus
