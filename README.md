@@ -15,9 +15,9 @@
 
 # 1. Multichannel Path/Grouping:
 * With the mcf report from GA API v3 mcf:report, I have to group the channel according defined rules
-https://colab.research.google.com/drive/1jltvVV7Q7ToFD0Vr-E23T8RsiuHZgz6I?usp=sharing
 https://colab.research.google.com/drive/1WUPXZUWWA9RKQTIyA8aQwQtRH5O3p-uQ?usp=sharing
 https://colab.research.google.com/drive/1z9JojmRo6xgk7MqaHJ-qxgg4v_R5EZFn?usp=sharing
+https://colab.research.google.com/drive/1jltvVV7Q7ToFD0Vr-E23T8RsiuHZgz6I?usp=sharing
 
 # 2. Attribution Model (heuristic+markov)
 * Attribution modeling with DP6 package: https://github.com/DP6/Marketing-Attribution-Models
