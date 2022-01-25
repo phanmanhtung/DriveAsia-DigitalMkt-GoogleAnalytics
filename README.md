@@ -1,9 +1,17 @@
 # Company2
 My implementation of Google Analytics data with Python and BigQuery: Multichannel Path/Grouping, Attribution Model (heuristic+markov), Time-lag calculation, Keyword Focus, Uplift/PtB modelling
-
+Pay attention: Data is credential to the company, therefore I could only demonstrate my code and some sample output in the code!
+Code links with some additional documents
 
 # 0. Working with Google Analytics API v3 (ga:report, mcf:report)
+* Attributes in the database to select from:
+- mcf:report : https://developers.google.com/analytics/devguides/reporting/mcf/dimsmets
+- ga:report : https://ga-dev-tools.web.app/dimensions-metrics-explorer/
+- Google BigQuery : https://support.google.com/analytics/answer/3437719?hl=en&ref_topic=3416089
 
+* Medium articles for instructions:
+- https://medium.com/analytics-vidhya/google-analytics-data-extraction-using-api-in-r-and-python-e0e5dcc5be88
+- https://medium.com/analytics-vidhya/google-analytics-multi-channel-funnel-data-extraction-using-api-in-python-bb8ed137b39f
 
 # 1. Multichannel Path/Grouping:
 * With the mcf report from GA API v3 mcf:report, I have to group the channel according defined rules
