@@ -1,7 +1,7 @@
 # Company2
-My implementation of Google Analytics data with Python and BigQuery: Multichannel Path/Grouping, Attribution Model (heuristic+markov), Time-lag calculation, Keyword Focus, Uplift/PtB modelling
-Pay attention: Data is credential to the company, therefore I could only demonstrate my code and some sample output in the code!
-Code links with some additional documents
+- My implementation of Google Analytics data with Python and BigQuery: Multichannel Path/Grouping, Attribution Model (heuristic+markov), Time-lag calculation, Keyword Focus, Uplift/PtB modelling
+- Pay attention: Data is credential to the company, therefore I could only demonstrate my code and some sample output in the code!
+- Code links with some additional documents
 
 # 0. Working with Google Analytics API v3 (ga:report, mcf:report)
 * Attributes in the database to select from:
