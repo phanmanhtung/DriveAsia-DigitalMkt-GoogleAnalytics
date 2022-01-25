@@ -5,9 +5,9 @@
 
 # 0. Working with Google Analytics API v3 (ga:report, mcf:report)
 * Attributes in the database to select from:
-mcf:report : https://developers.google.com/analytics/devguides/reporting/mcf/dimsmets
-ga:report : https://ga-dev-tools.web.app/dimensions-metrics-explorer/
-Google BigQuery : https://support.google.com/analytics/answer/3437719?hl=en&ref_topic=3416089
+-mcf:report : https://developers.google.com/analytics/devguides/reporting/mcf/dimsmets
+-ga:report : https://ga-dev-tools.web.app/dimensions-metrics-explorer/
+-Google BigQuery : https://support.google.com/analytics/answer/3437719?hl=en&ref_topic=3416089
 
 * Medium articles for instructions:
 https://medium.com/analytics-vidhya/google-analytics-data-extraction-using-api-in-r-and-python-e0e5dcc5be88
